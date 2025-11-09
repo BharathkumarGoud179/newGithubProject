@@ -1,5 +1,5 @@
 # newGithubProject
 My new Git-Hub Project
-<brs>
+<br>
 Iam Bharath Kumar Goud
 
